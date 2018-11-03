@@ -7,8 +7,8 @@ body, img, h1 /* Remove Padding and margin and line height (Normalize)*/
 	border: none; }
 
 /* SET FONTS (VARIABLE) */
-body { font-size: 15px; } /*Medium Text */
-h1 { font-size: 20px; } /* Large Text */
+body { font-size: 25px; } /*Medium Text */
+h1 { font-size: 30px; } /* Large Text */
 
 a {text-decoration: none; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
 	
