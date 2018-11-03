@@ -28,7 +28,7 @@ body
 	width: 99.5%; width: 99.5vw;
 	height: 99.5%; height: 99.5vh;
 	background: no-repeat center center fixed; 
-	background-image: url("lib/splash.png");
+	background-image: url("/lib/splash.png");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
