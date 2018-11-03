@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400); /* Import google open sans font */
+
+body, img, h1 /* Remove Padding and margin and line height (Normalize)*/
+{	margin: 0 0 0 0; /* top : right :  bottom :  left */
+	padding: 0 0 0 0; /* top : right :  bottom :  left */
+	line-height: 1.2;
+	border: none; }
+
+/* SET FONTS (VARIABLE) */
+body { font-size: 1.5vw; } /*Medium Text */
+h1 { font-size: 2vw; } /* Large Text */
+
+a {text-decoration: none; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
+	
+body
+{	font-family: sans-serif, "Open Sans";
+	font-style: normal;
+	text-decoration: none;
+	text-align: center;
+	vertical-align: middle;
+	cursor: default;
+	overflow: hidden;
+	margin-top: 0.25%;
+	margin-bottom: 0.25%;
+	margin-left: 0.25%;
+	margin-right: 0.25%;
+	
+	width: 99.5%; width: 99.5vw;
+	height: 99.5%; height: 99.5vh;
+	background: no-repeat center center fixed; 
+	background-image: url("lib/splash.png");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; }
+
+h1
+{	height: 2.5vw;
+	padding: 0.25vw;
+	white-space: nowrap;
+	overflow: hidden;
+	background-image: url("");
+	text-align: left; 
+	-moz-border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px; border-radius: 5px 5px 5px 5px; }/* Round the top */
+
+
