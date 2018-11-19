@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400); /* Import google open sans font */
+
+body, img, h1, h2, b, p, a, ul, li, div /* Remove Padding and margin and line height (Normalize)*/
+{	margin: 0 0 0 0; /* top : right :  bottom :  left */
+	padding: 0 0 0 0; /* top : right :  bottom :  left */
+	line-height: 1.2;
+	border: none; }
+
+a {text-decoration: none; color: green; }
+a:hover {background: green; color: white;}	
+body
+{	font-family: sans-serif, "Open Sans";
+	font-style: normal;
+	font-size: 2vw;
+	text-decoration: none;
+	text-align: left;
+	cursor: default;
+	margin-top: 2%;
+	margin-left: 1%;
+	margin-right: 1%;
+	color: black;
+	background: no-repeat center center fixed; 
+	background-image: url("background.png");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; }
+
+h1
+{	font-size: 4vw;
+	display: inline; }
+	
+h2 {font-size: 3vw; 
+	margin-left: 1vw;
+	margin-top: 2vw; }
+
+b, h2 {	color: green; }
+
+p, marquee 
+{	font-size: 1.25vw; 
+	margin-left: 2vw;
+	margin-top: 0.5vw;
+	text-align: justify;
+	text-indent: -0.5vw;
+	margin-right: 1vw; }
+
+marquee { witth: 250%; margin-left: -150%; }
+ul, li, marquee p { display: inline-block; }
+ul, li { list-style-type: circle; }
+marquee a {color: black;}
+marquee a:hover {background: transparent; color: black;}	
+marquee p, li {padding-right: 15px;}
+
+
+
+
+
+
+
