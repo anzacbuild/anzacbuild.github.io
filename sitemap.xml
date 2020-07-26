@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<!-- aNZac Build - Site Map -->
+	<!-- FileName: sitemap.xml -->
+	<!-- Created: 2020-07-26 -->
+	<!-- Version: 1.1 -->
+
+	<url> <!-- Top Proirity -->
+	  <loc>https://anzacbuild.github.io/</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>1.00</priority>
+	</url>
+	<url>
+	  <loc>https://anzacbuild.github.io/index.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>1.00</priority>
+	</url>
+	
+	<url> <!-- Medium Proirity -->
+	  <loc>https://anzacbuild.github.io/install.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://anzacbuild.github.io/tips.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>https://anzacbuild.github.io/version.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.80</priority>
+	</url>
+
+	<url> <!-- Low Proirity -->
+	  <loc>https://anzacbuild.github.io/guides/addsubscription.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.50</priority>
+	</url>
+	<url>
+	  <loc>https://anzacbuild.github.io/guides/addvisualization.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.50</priority>
+	</url>
+	<url>
+	  <loc>https://anzacbuild.github.io/guides/aNZacTools.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.50</priority>
+	</url>
+	<url>
+	  <loc>https://anzacbuild.github.io/guides/iptvmanage.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.50</priority>
+	</url>
+	<url>
+	  <loc>https://anzacbuild.github.io/guides/livetvinstall.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.50</priority>
+	</url>	
+
+	<url>
+	  <loc>https://anzacbuild.github.io/guides/premiumservice.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.50</priority>
+	</url>	
+	<url>
+	  <loc>https://anzacbuild.github.io/guides/weatherlocation.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.50</priority>
+	</url>	
+	
+	
+	
+	
+</urlset> <!-- End of Site Map -->
+
+
+
+
