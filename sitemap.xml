@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<!-- Airmate Wellington - Site Map -->
+	<!-- FileName: sitemap.xml -->
+	<!-- Created: 2020-07-04 -->
+	<!-- Version: 1.1 -->
+	<!-- Author: Voice Solutions (http://voicesolutions.co.nz) -->
+
+	<url> <!-- Top Proirity -->
+	  <loc>http://airmatewn.co.nz/</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>1.00</priority>
+	</url>
+	<url>
+	  <loc>http://airmatewn.co.nz/index.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>1.00</priority>
+	</url>
+	
+	<url> <!-- Medium Proirity -->
+	  <loc>http://airmatewn.co.nz/About.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>http://airmatewn.co.nz/HeatPumps.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.80</priority>
+	</url>
+	<url>
+	  <loc>http://airmatewn.co.nz/Servicing.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.80</priority>
+	</url>
+
+	<url> <!-- Low Proirity -->
+	  <loc>http://airmatewn.co.nz/Contact.html</loc>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.50</priority>
+	</url>
+
+</urlset> <!-- End of Site Map -->
+
+
+
+
