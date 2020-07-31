@@ -89,7 +89,21 @@ ul li::before
   left: 50%;
   visibility: hidden;
   /* bring your own prefixes */
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); }
+
+
+
+/* SCREEN MEDIA ADJUSTMENTS */
+@media (max-width: 30em) /* Small Size Displays */
+{	.TitleMENU { font-size: 3.8vw; } 
+	img { width: 30vw; }
+	h1 { font-size: 5.8vw; }
+	body { font-size: 4vw; }
+	div.FloatRight { display: none; }
+	h2 { font-size: 5vw; }
+	.BigP, .AboutP { font-size: 3vw; width: 93vw; }
+	#BigPicIMG { width: 100vw; height: auto; }
+	p { font-size: 3vw; }
+	.PicLeft, .PicLeftP, .PicRight, .PicRightP { width: 30vw;}
+	.rss-item { font-size: 3vw;  } /* li and a elements */
 }
-
-
